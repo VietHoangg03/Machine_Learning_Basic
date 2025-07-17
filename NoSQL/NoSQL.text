@@ -1,0 +1,30 @@
+NoSQL là cách thức lưu trữ giữ liệu không theo một cấu trúc định sẵn nào
+Nó linh hoạt.
+Với các cơ sở dữ liệu SQL dễ dàng lữu trữ, quản lý và cập nhật.
+
+NoSQL là data kiểu
+- Tổ chức theo dạng Key-Value
+- Tổ chức theo mô hình Docutment Database lưu dữ liệu theo chuẩn XML hoặc JSON
+- Tổ chức thành mô hình đồ thị data
+
+
+MongoDB là cơ sở dữ liệu dựa trên Document.
+Có thể lưu trữ dữ liệu theo dạng Document.
+Data có thể lưu trữ theo file => có nhiều document khác nhau => Và được lưu trữ trong Collection 
+(Collection nó giống như Set lưu trữ nhiều document bên trong đó)
+Tập hợp các collection lại thì thành database.
+
+=> Không còn các bảng SQL phức tạp.
+
+
+Hệ sinh thái của MongoDB:
+- Comumunity Edition: Free
+- Enterprise Edition: Bảo mật cao hơn,
+- Atlas: Bản trên cloud hỗi trợ bảo mật trên cloud.
+
+Công cụ tools:
+- </> Shell
+- MongoDB Drives (Java, Python,...)
+- BI Conntectors.
+- Compass.
+
